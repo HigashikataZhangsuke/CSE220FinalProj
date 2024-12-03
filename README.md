@@ -9,3 +9,6 @@ Contains the Impl of Paper Access Map Pattern Matching for High Performance Data
 3.Param defs
 # V1.0 
 Finished modify prefetcher code. The next step is to check the dcache stage, as well as make the interface/connections.
+
+# V2.0
+Finished All modifications by Chuanhan. 
